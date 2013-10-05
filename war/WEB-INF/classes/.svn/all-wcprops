@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/hyp/!svn/ver/3/HYP/trunk/src
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/hyp/!svn/ver/3/HYP/trunk/src/logging.properties
+END
+application_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/hyp/!svn/ver/3/HYP/trunk/src/application_en.properties
+END
+application_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/hyp/!svn/ver/3/HYP/trunk/src/application_ja.properties
+END

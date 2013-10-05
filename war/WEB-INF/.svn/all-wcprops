@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/hyp/!svn/ver/3/HYP/trunk/war/WEB-INF
+END
+appengine-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/hyp/!svn/ver/3/HYP/trunk/war/WEB-INF/appengine-web.xml
+END
+queue.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/hyp/!svn/ver/3/HYP/trunk/war/WEB-INF/queue.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/hyp/!svn/ver/3/HYP/trunk/war/WEB-INF/web.xml
+END

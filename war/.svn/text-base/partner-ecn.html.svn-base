@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Documento senza titolo</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" /><!--[if lte IE 7]>
+<style>
+.content { margin-right: -1px; } /* Questo margine negativo da 1 px può essere posizionato in qualsiasi colonna di questo layout ottenendo lo stesso effetto correttivo. */
+ul.nav a { zoom: 1; }  /* La proprietà zoom fornisce il trigger hasLayout a IE per correggere lo spazio vuoto supplementare tra i collegamenti. */
+</style>
+<![endif]-->
+</head>
+
+<body>
+
+<div class="container">
+  <div class="header">
+  	<a href="homepage.html">
+  <img src="img/logo.jpg" alt="Our Logo" height="160" id="logo" /><img src="img/banner1.jpg" alt="Save The Earth!" height="160" id="banner" /></a><!-- end .header --></div>
+  <div class="sidebar1">
+    <ul class="nav">
+      <li>
+      <p>Main Menu</p></li>
+      <li><a href="homepage.html">Homepage</a></li>
+      <li><a href="program/presentation.html">Save the Earth</a></li>
+      <li><a href="agency/presentation.html">European Union</a></li>
+      <li><a href="project.index.html">Projects</a></li>
+      <li><a href="partner/index.html">Partners</a></li>
+    </ul>
+<ul class="nav">
+      <li><a href="program/howToApply.html">Activity organized</a></li>
+      <li><a href="program/ourMission.html">Researcher of this partner</a></li>
+      <li><a href="program/howToApply.html">Project leaded</a></li>
+      <li><a href="program/ourMission.html">Project developed</a></li>
+    </ul>
+    <!-- end .sidebar1 --></div>
+  <div class="content">
+    <h1>ECN</h1>
+<h2>About us</h2>
+    <p>Energy research Centre of the Netherlands (ECN) is an independent research institute for renewable energy. Experts in the fields of wind energy, solar energy, biomass and environmental research, hydrogen, energy efficiency and policy studies work on the energy technology of the future.</p>
+
+
+    <h2>Mission statement</h2>
+    <p>A transition to a sustainable energy system is essential. The major international issues surrounding security of supply, climate change and sustainability all require developments and innovation in sustainable energy technology, consultancy and policy recommendations. The transition to sustainable forms of energy production and consumption provides the basis for ECN's activities. Energy savings, the introduction of renewable energy and clean use for fossil fuels are the elements needed for the transition to a sustainable and affordable energy system.
+<br></br>
+With and for the market, we develop knowledge and technology that enable a transition to a sustainable energy system.
+<br></br>
+<b>Your energy. Our passion.</b>
+<br></br>
+ECN endorses the need for sustainable change and is setting a new course as a result. This change of direction is substantiated and set out in the strategy plan for 2012 - 2015</p>
+    <!-- end .content --></div>
+  <div class="footer">
+    <p>Hypermedia Project 2011-2012 made by Canidio Andrea &amp; Danelli Matteo &copy;</p>
+    <!-- end .footer --></div>
+  <!-- end .container --></div>
+</body>
+</html>

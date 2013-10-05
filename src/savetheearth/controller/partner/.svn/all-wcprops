@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hyp/!svn/ver/3/HYP/trunk/src/savetheearth/controller/partner
+END
+IndexController.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hyp/!svn/ver/3/HYP/trunk/src/savetheearth/controller/partner/IndexController.java
+END
+PartnerByNationalityController.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hyp/!svn/ver/3/HYP/trunk/src/savetheearth/controller/partner/PartnerByNationalityController.java
+END
+PresentationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hyp/!svn/ver/3/HYP/trunk/src/savetheearth/controller/partner/PresentationController.java
+END
+InsertController.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hyp/!svn/ver/3/HYP/trunk/src/savetheearth/controller/partner/InsertController.java
+END
+PartnerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hyp/!svn/ver/3/HYP/trunk/src/savetheearth/controller/partner/PartnerController.java
+END
+DevelopsController.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hyp/!svn/ver/3/HYP/trunk/src/savetheearth/controller/partner/DevelopsController.java
+END
+PartnerByLetterController.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hyp/!svn/ver/3/HYP/trunk/src/savetheearth/controller/partner/PartnerByLetterController.java
+END

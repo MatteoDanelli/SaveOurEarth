@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Documento senza titolo</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" /><!--[if lte IE 7]>
+<style>
+.content { margin-right: -1px; } /* Questo margine negativo da 1 px può essere posizionato in qualsiasi colonna di questo layout ottenendo lo stesso effetto correttivo. */
+ul.nav a { zoom: 1; }  /* La proprietà zoom fornisce il trigger hasLayout a IE per correggere lo spazio vuoto supplementare tra i collegamenti. */
+</style>
+<![endif]-->
+</head>
+
+<body>
+
+<div class="container">
+  <div class="header">
+  	<a href="homepage.html">
+  <img src="img/logo.jpg" alt="Our Logo" height="160" id="logo" /><img src="img/banner1.jpg" alt="Save The Earth!" height="160" id="banner" /></a><!-- end .header --></div>
+  <div class="sidebar1">
+    <ul class="nav">
+      <li>
+      <p>Main Menu</p></li>
+      <li><a href="homepage.html">Homepage</a></li>
+      <li><a href="program/presentation.html">Save the Earth</a></li>
+      <li><a href="agency/presentation.html">European Union</a></li>
+      <li><a href="project.index.html">Projects</a></li>
+      <li><a href="partner/index.html">Partners</a></li>
+    </ul>
+<ul class="nav">
+      <li><a href="program/howToApply.html">Activity organized</a></li>
+      <li><a href="program/ourMission.html">Researcher of this partner</a></li>
+      <li><a href="program/howToApply.html">Project leaded</a></li>
+      <li><a href="program/ourMission.html">Project developed</a></li>
+    </ul>
+    <!-- end .sidebar1 --></div>
+  <div class="content">
+    <h1>Polytechnic of Milan</h1>
+<h2>University</h2>
+    <p>Politecnico di Milano is a scientific-technological university which trains engineers, architects and industrial designers. The University has always focused on the quality and innovation of its teaching and research developing a fruitful relationship with business and productive world by means of experimental research and technological transfer.<br></br>
+
+Research has always been linked to didactics and is a priority commitment which has allowed Politecnico di Milano to achieve high quality results at an international level as to join the university to the business world. 
+Research activity moreover constitutes a parallel path to that formed by cooperation and alliances with the industrial system. Knowing the world in which you are going to work is a vital requirement for training students. By referring back to the needs of the productive, industrial world and public administration, research is facilitated in following new paths and dealing with the need for constant and rapid innovation. The alliance with the industrial world, in many cases also favored by the Fondazione Politecnico and by  Consortiums to which Politecnico belongs, allows the university to follow the vocation of the territories in which it operates and to be a stimulus for their development. The challenge which is being met today projects this tradition which is strongly rooted in the territory beyond the borders of the country, in a relationship which is developing first of all at the European level with the objective of contributing to the creation of a “single professional training market”.
+<br></br>
+Politecnico takes part in several research and training projects collaborating with the most qualified European universities. Politecnico's contribution is increasingly being extended to other countries: from North America to Southeast Asia to Eastern Europe. Today the drive to internationalization sees Politecnico di Milano take part in the European and world network of leading technical universities and offers several exchange and double-degree programmes beside 2 three-year Bachelor of Science degree programmes, 10 Master of Science degree programmes, 12 Specialization Master’s programmes and 24 Doctoral programmes which are entirely taught in English.</p>
+
+
+    <h2>Scientific research</h2>
+    <p>The scientific community of Politecnico di Milano is constituted by more than 1,400 professors and research fellows, who are employed in advanced research activities at a national and international level.
+<br></br>
+The university’s scientific research has always been oriented toward innovation and quality and seeks to forge a strong relationship with the business and productive world, through technological transfers. Being attuned to the needs of the productive, industrial and public administration sectors helps research to continuously explore new areas and stay at the leading edge.
+<br></br>
+There are countless research programs carried out by the university in collaboration with the international scientific community along with the support of industrial partners, research centers, governing bodies, public administrations and the European Commission. The Research Areas have been organized according to thirteen strategic areas, among which there are Research Lines which have been selected and followed by various Research Groups.</p>
+    <!-- end .content --></div>
+  <div class="footer">
+    <p>Hypermedia Project 2011-2012 made by Canidio Andrea &amp; Danelli Matteo &copy;</p>
+    <!-- end .footer --></div>
+  <!-- end .container --></div>
+</body>
+</html>
