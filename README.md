@@ -1,6 +1,4 @@
 SaveOurEarth
 ============
 
-Web application of Hypermedia Project Course @Polimi. Developed with Google App Engine and Slim3 Framework.
-
-The app is visible at ac-md-aip2012-appspot.com
+Set up your app engine domain and then upload the code easily using Google plugin for eclipse.
